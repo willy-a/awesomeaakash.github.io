@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Bug-Hunting-Guide"
+title:  Bug-Hunting-Guide
 date:   2019-3-20 
 categories: Guide
 comments: true
@@ -226,7 +226,7 @@ Vulnerability Newsletter :→
 
     [http://10degres.net/vulnerabilities-list/](http://10degres.net/vulnerabilities-list/)
          
-    [https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/_
+    [https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 
     [https://docs.google.com/document/d/1eVPh6jNn3jZbnHZitevbSSe9GDoi7PmrolfGv7FQdow/edit?fbclid=IwAR088EIT-lXLDgVGLuw1MrGP_hb3GrmN0KHP3z5v_6Lh6ihskbW5wOBJ-fo](https://docs.google.com/document/d/1eVPh6jNn3jZbnHZitevbSSe9GDoi7PmrolfGv7FQdow/edit?fbclid=IwAR088EIT-lXLDgVGLuw1MrGP_hb3GrmN0KHP3z5v_6Lh6ihskbW5wOBJ-fo)
     
