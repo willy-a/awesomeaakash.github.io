@@ -230,3 +230,4 @@ Vulnerability Newsletter :→
 
     [https://docs.google.com/document/d/1eVPh6jNn3jZbnHZitevbSSe9GDoi7PmrolfGv7FQdow/edit?fbclid=IwAR088EIT-lXLDgVGLuw1MrGP_hb3GrmN0KHP3z5v_6Lh6ihskbW5wOBJ-fo](https://docs.google.com/document/d/1eVPh6jNn3jZbnHZitevbSSe9GDoi7PmrolfGv7FQdow/edit?fbclid=IwAR088EIT-lXLDgVGLuw1MrGP_hb3GrmN0KHP3z5v_6Lh6ihskbW5wOBJ-fo)
     
+    [https://www.billdietrich.me/PenetrationTestingAndBugBountyHunting.html] (https://www.billdietrich.me/PenetrationTestingAndBugBountyHunting.html)
