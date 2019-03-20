@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Bug-Hunting-Guide
+title:  Bug-Hunting-Mentaility
 date:   2019-3-20 
 categories: Guide
 comments: true
