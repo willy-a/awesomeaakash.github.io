@@ -1,17 +1,21 @@
 # Site settings
-title: LiXizhi's Personal Website
-email: lixizhi@yeah.net
-description: Xizhi's Ideas & Blogs
+title: CodeNinja a.k.a. Aakash Choudhary
+email: choudharyaakash68@gmail.com
+description: Web and System Pentester
+\# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: http://i.imgur.com/FPXRU3t.jpg
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
+# baseurl: "/" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: LiXizhi
-permalink: /:year/:month/:day/:title/
+github: https://github.com/awesomeaakash
+twitter: https://twitter.com/LearnerPentest
+facebook: https://www.facebook.com/profile.php?id=100011616878526
+permalink: /:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
 # this is the url root of the create page link on the footer page.
