@@ -233,3 +233,5 @@ Vulnerability Newsletter :→
     [https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
     
     [https://www.billdietrich.me/PenetrationTestingAndBugBountyHunting.html] (https://www.billdietrich.me/PenetrationTestingAndBugBountyHunting.html)
+
+[https://www.hackers-arise.com/web-app-hacking](https://www.hackers-arise.com/web-app-hacking)
