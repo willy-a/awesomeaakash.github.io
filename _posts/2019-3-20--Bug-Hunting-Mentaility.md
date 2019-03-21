@@ -3,7 +3,7 @@ layout: post
 title:  Bug-Hunting-Mentaility
 date:   2019-3-20 
 categories: Guide
-comments: true
+comments: false
 ---
 
 Today I read Pentester Land Podcasts →
@@ -229,5 +229,7 @@ Vulnerability Newsletter :→
     [https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 
     [https://docs.google.com/document/d/1eVPh6jNn3jZbnHZitevbSSe9GDoi7PmrolfGv7FQdow/edit?fbclid=IwAR088EIT-lXLDgVGLuw1MrGP_hb3GrmN0KHP3z5v_6Lh6ihskbW5wOBJ-fo](https://docs.google.com/document/d/1eVPh6jNn3jZbnHZitevbSSe9GDoi7PmrolfGv7FQdow/edit?fbclid=IwAR088EIT-lXLDgVGLuw1MrGP_hb3GrmN0KHP3z5v_6Lh6ihskbW5wOBJ-fo)
+    
+    [https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
     
     [https://www.billdietrich.me/PenetrationTestingAndBugBountyHunting.html] (https://www.billdietrich.me/PenetrationTestingAndBugBountyHunting.html)
