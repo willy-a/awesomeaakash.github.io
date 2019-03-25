@@ -28,15 +28,15 @@ https://twitter.com/stokfredrik/status/1109733020540567555
 
 1. By @stokfredrik
  
-I always look up asn and ipranges on ripe, if it’s a small scope or if I just want a feeling for it I run it threw domained/aquatone and sort the sizes of the screen shots to look for anomalies, 
-(link: https://github.com/cak/domained) https://github.com/cak/domained
-(link: https://github.com/michenriksen/aquatone) https://github.com/michenriksen/aquatone
+    I always look up asn and ipranges on ripe, if it’s a small scope or if I just want a feeling for it I run it threw domained/aquatone     and sort the sizes of the screen shots to look for anomalies, 
+    (link: https://github.com/cak/domained) https://github.com/cak/domained
+    (link: https://github.com/michenriksen/aquatone) https://github.com/michenriksen/aquatone
 
 2. By @imhaxormad :-> My Recon tips :->
 
      1. Wayback machine plugin in burp gives you some sweet endpoints, I had managed to find an RCE via an abandoned test page for a pentest client.
-    2) Look the source code, sometimes you might find an open redirection out of nowhere!
-    3) Run Gobuster+dirb+Burp spider
+     2. Look the source code, sometimes you might find an open redirection out of nowhere!
+     3. Run Gobuster+dirb+Burp spider
 
 3. By @D0rkerDevil
  
