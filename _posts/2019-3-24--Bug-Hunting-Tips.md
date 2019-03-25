@@ -82,5 +82,29 @@ https://twitter.com/stokfredrik/status/1109733020540567555
 Tools : subfinder, massdns + dirsearch / eyewitness 
 Start by finding interesting subdomain, then spider / bruteforce it (i use dirsearch across multiple subdomains). From there start digging more into host for interesting functionality or files.
 
+9. By  @JarPhish :->
+
+    1. Know your target machine, open port. Find it with wappalyzer/builtwith and nmap/masscan
+    2. Find subdomains, directory, path & parameters with amass, gobuster, Arjun, JSparser
+    3. Find more with google dorks, exploitdb, github.
+
+
+10. By @mufeedvh ->  
+     Some Recon Tips:
+    
+    1. Google Dorks: search for common parameters and directories.
+    2. Collect parameters as you surf the target, these parameters may respond in other pages too that you can chain them to get an awesome bug (mainly in account settings).
+    3. Check "robots.txt".
+
+
+11. By @JavoPagano
+
+    1. Spider to find all end points posible
+    2. Dirb it can give you some interesting pages
+    3. Sub domain search can be helpfull too
+
+12. By @kh4st3x
+
+    Run your tools using VPS servers instead of local for turbo speed
 
 =================================================
