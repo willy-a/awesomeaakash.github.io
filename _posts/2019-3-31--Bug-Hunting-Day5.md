@@ -49,7 +49,7 @@ e) https://github.com/cak/domained
 f) https://pentester.land/cheatsheets/2018/11/14/subdomains-enumeration-cheatsheet.html
 
 
-
+sahil blog [recon-my-way] and chomp-scan and cheatsheets by pentester.land I found Most Usefull
 ---
 Well this all are the recon stuffs.
 Also I got to know mostly Bug hunters use Burp+Firefox for finding vulnerability
