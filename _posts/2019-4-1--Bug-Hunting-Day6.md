@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bug-Hunting-Day-6
-date:   2019-4-2 
+date:   2019-4-1 
 categories: Bug-Hunting-Tracker
 comments: false
 ---
@@ -73,7 +73,10 @@ Engines List =>
 -   **Certificates:**  Active pulls (upon request), Censys, CertDB, CertSpotter, Crtsh, Entrust
 -   **APIs:**  BinaryEdge, BufferOver, CIRCL, HackerTarget, PassiveTotal, Robtex, SecurityTrails, Shodan, Twitter, Umbrella, URLScan
 -   **Web Archives:**  ArchiveIt, ArchiveToday, Arquivo, LoCArchive, OpenUKArchive, UKGovArchive, Wayback
+
+
 ---
+
 **Basic Usage**
 
 1.  amass -d <target.com>
