@@ -10,7 +10,7 @@ So, Here is my Day 6 Sumary of my Bug Hunting Track
 
 Day 6 ->  Analyzing of Tools and note their documents/usage/guide here
 
-1. Sublist3r ->
+1.  ### Sublist3r ->
 [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
 
 Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu, and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster, and ReverseDNS.
@@ -65,7 +65,8 @@ Engines List =>
 
 
 ---
-2. Amass
+
+2. ### Amass
 [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
 
 -   **DNS:**  Basic enumeration, Brute forcing (upon request), Reverse DNS sweeping, Subdomain name alterations/permutations, Zone transfers (upon request)
@@ -141,7 +142,8 @@ I have all of these following wordlists in /opt/wordlists Directory
 3.  amass -active -d <target.com> web -p 80,443,8080 -oA ~/Desktop/bounty/Projects/target-name/Output/amass-with-port-result
 
 ---
-3. knockpy
+
+3. ### Knockpy
 
 [https://github.com/guelfoweb/knock](https://github.com/guelfoweb/knock)
 
@@ -157,6 +159,7 @@ Great, So, this needing API Key of Virustotal
 5. knockpy -j domain.com [Export in JSON]
 
 ---
+
 4. ### Domained Multi Tool Subdomain Enumeration
 
 [https://github.com/cakinney/domained](https://github.com/cakinney/domained)
@@ -177,6 +180,7 @@ Domained is a multi tool subdomain enumeration tool that uses several subdomain 
 I will wait more to use this tool
 
 ---
+
 5. ### Aquatone 
 [https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone)
 
