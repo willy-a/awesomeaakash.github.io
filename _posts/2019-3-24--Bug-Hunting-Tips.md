@@ -8,16 +8,39 @@ comments: false
 
 Here I will write all the tips tricks i got from twitter and even advices which when i got from others and daily update this blog post
 
-## Bug Hunting Tip 1 :→
+## Bug Hunting Tips 1  [By Jason Haddix] :→
 
 ![](https://i.imgur.com/KyBAu4V.png)
 
 
 =========================
 
-## Bug Hunting Tip 2 :→
+## Bug Hunting Tip 2 [By Jason Haddix] :→
 
 ![](https://i.imgur.com/7FoCfat.jpg)
+
+
+==========================
+
+## Bug Hunting Tips 3  [By Jason Haddix] :→
+
+Check out @BountyBurp - https://github.com/wagiro/BurpBounty/
+and @egarme's port of LinkFinder (by @gerben_javado )
+
+https://github.com/ghsec/BBProfiles/blob/master/PASSIVE-EndpointsExtractor.bb
+https://www.youtube.com/watch?v=ELftJwkY_e0
+https://github.com/GerbenJavado/LinkFinder
+
+I'm gonna run out of good pics of myself!
+
+![](https://i.imgur.com/CKJkkwm.png)
+
+
+Don't Forget ->
+![](https://i.imgur.com/Z0AcL3l.png)
+
+from https://people.eecs.berkeley.edu/~rohanpadhye/files/key_leaks-msr15.pdf
+
 
 ==========================
 
@@ -108,3 +131,40 @@ Start by finding interesting subdomain, then spider / bruteforce it (i use dirse
     Run your tools using VPS servers instead of local for turbo speed
 
 =================================================
+
+### Tweet by Tom Joseph [https://twitter.com/bot_infosec/status/1114035613655654400]
+
+Does Anyone know some good vulnerability based automation scanners?
+
+1. SQLMAP => SQL Injection
+2. Commix  => Command Injection
+3. TPLMAP => SSTI 
+
+What's more??
+
+Others reply ->
+
+1.  By Abhinav [@0xINT3]
+
+    Gitrob: GitHub reconnaissance
+    Knockpy: Subdomain lister
+    SAML Raider: SAML (burp plugin)
+    XXEinjector: XXE
+    xsshunter: Blind XSS
+
+    I'll add more. :)
+    
+2. By Rakesh Mane @RakeshMane10
+
+     xcat => XPath Injection
+     
+3. By Arif Khan 
+    - XSStrike by @s0md3v for XSS.
+     - Photon, Spiderfoot for #OSINT
+     - Arjun for HTTP parameter discovery 
+     - Aquatone for Recon
+
+4. By \x43
+     Kadimus for LFI
+
+5. XSSer = XSS
