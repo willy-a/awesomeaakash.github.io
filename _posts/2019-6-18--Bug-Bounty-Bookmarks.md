@@ -102,6 +102,7 @@ Idor
 1. https://medium.com/@Skylinearafat/idor-that-calls-me-you-cant-delete-but-i-can-idor-to-delete-admin-annonations-by-any-user-72c64e8989d1
 1. https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7
 2. https://medium.com/@injector.pca_87232/idor-account-takeover-1ff5a2d03b8b
+3. https://medium.com/intigriti/how-spending-our-saturday-hacking-earned-us-20k-60990c4678d4
 
 
 CORS
@@ -179,7 +180,7 @@ Upload
 1. https://medium.com/@jonathanbouman/how-i-hacked-apple-com-unrestricted-file-upload-bcda047e27e3
 2. https://medium.com/@injector.pca_87232/complete-web-server-access-46d19279a2b
 3. https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e
-
+4. https://anotherhackerblog.com/exploiting-file-uploads-pt1/
 
 oAuth
 ===========
@@ -262,6 +263,11 @@ XSS
 3. https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
 4. https://medium.com/@hakluke/upgrade-xss-from-medium-to-critical-cb96597b6cc4
 5. 
+
+
+Parameter Pollution
+=======================
+1. https://smaranchand.com.np/2019/06/parameter-pollution-issue-in-api-resulting-xxx/
 
 Behavior & Scopes
 =========================
