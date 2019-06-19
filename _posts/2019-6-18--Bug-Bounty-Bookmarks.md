@@ -103,7 +103,7 @@ Idor
 1. https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7
 2. https://medium.com/@injector.pca_87232/idor-account-takeover-1ff5a2d03b8b
 3. https://medium.com/intigriti/how-spending-our-saturday-hacking-earned-us-20k-60990c4678d4
-
+4. https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310
 
 CORS
 ================
@@ -262,7 +262,8 @@ XSS
 2. https://medium.com/@injector.pca_87232/journey-to-the-xss-bed46a39c9ee
 3. https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
 4. https://medium.com/@hakluke/upgrade-xss-from-medium-to-critical-cb96597b6cc4
-5. 
+5. https://medium.com/@chawdamrunal/xss-cheat-sheet-e8b8261963c9
+6. https://digi.ninja/blog/jsurixss.php
 
 
 Parameter Pollution
