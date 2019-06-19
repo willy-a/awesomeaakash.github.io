@@ -124,7 +124,7 @@ RCE
 =======================
 1. https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-bypass-firewall-to-get-rce-and-then-went-from-server-shell-to-get-783f71131b94
 1. https://medium.com/bugbountywriteup/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899
-
+2. https://parsiya.net/blog/2019-06-18-chaining-three-bugs-to-get-rce-in-microsoft-attacksurfaceanalyzer/
 
 
 
@@ -181,6 +181,7 @@ Upload
 2. https://medium.com/@injector.pca_87232/complete-web-server-access-46d19279a2b
 3. https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e
 4. https://anotherhackerblog.com/exploiting-file-uploads-pt1/
+5. https://github.com/modzero/mod0BurpUploadScanner
 
 oAuth
 ===========
