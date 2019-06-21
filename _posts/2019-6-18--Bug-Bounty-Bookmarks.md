@@ -86,7 +86,7 @@ CSRF
 =====================
 1. https://medium.com/bugbountywriteup/content-negotiation-with-csrf-969e639d6a1a
 1. https://shahmeeramir.com/methods-to-bypass-csrf-protection-on-a-web-application-3198093f6599
-
+2. https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9
 
 Idor 
 =================
