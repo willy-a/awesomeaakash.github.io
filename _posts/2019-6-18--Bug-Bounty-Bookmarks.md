@@ -184,6 +184,8 @@ Upload
 3. https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e
 4. https://anotherhackerblog.com/exploiting-file-uploads-pt1/
 5. https://github.com/modzero/mod0BurpUploadScanner
+6. https://medium.com/@satboy.fb/art-of-unrestricted-file-upload-exploitation-92ed28796d0
+
 
 oAuth
 ===========
