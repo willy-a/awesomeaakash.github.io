@@ -293,7 +293,7 @@ OTHER
 
 Burpsuite Related
 ==========================================
-
+1. https://www.jonbottarini.com/2019/06/17/using-burp-suite-match-and-replace-settings-to-escalate-your-user-privileges-and-find-hidden-features/
 
 Usefull Tools 
 =================================
