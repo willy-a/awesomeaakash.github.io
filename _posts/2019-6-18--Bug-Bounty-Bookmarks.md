@@ -114,7 +114,7 @@ CORS
 1. https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397
 1. https://medium.com/bedefended/implement-secure-cors-tomcat-f813e308b67c
 1. https://www.exploit-db.com/docs/english/45906-cors-attacks.pdf
-
+2. https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441
 
 Host Header Injection
 =====================================
@@ -142,7 +142,7 @@ Cloud Storage
 Account Takeover
 =======================================
 1. https://medium.com/@injector.pca_87232/account-takeover-worth-900-cacbe10de58e
-
+2. https://medium.com/@y.shahinzadeh/1-click-account-takeover-in-virgool-io-a-nice-case-study-6bfc3cb98ef2
 
 Header Injection
 =========================
@@ -222,7 +222,7 @@ SSRF
 1. https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4
 1. https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb
 1. https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6
-
+2. https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb
 
 
 
