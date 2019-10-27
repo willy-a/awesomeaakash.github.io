@@ -93,7 +93,7 @@ He got this result ->
 ![](https://miro.medium.com/max/1366/1*V4xY_c6wTcumgt2C8rMvfQ.png)
 
 --	Then he used payload -> <script>alert(1)</script> but didn’t work but this payload worked ->
-		<center>`<img src=x onerror=alert(‘XSS’)>`</center>
+		`<img src=x onerror=alert(‘XSS’)>`
 
 ##### Second XSS ->
 
