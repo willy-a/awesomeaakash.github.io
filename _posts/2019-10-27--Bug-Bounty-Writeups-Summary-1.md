@@ -2,7 +2,7 @@
 layout: post
 title:  Bug-Bounty-Writeups-Summary-1
 date:   2019-6-18 
-categories: Bug-Bounty-Writeups-Summarries
+categories: Bug-Bounty-Writeups-Summarry
 comments: false
 ---
 Hello Friends,After a very long time I am updating my blog. I didn't continue my bug hunting day wise blog becuase of my personal problems.
