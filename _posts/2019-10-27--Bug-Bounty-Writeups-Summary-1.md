@@ -111,7 +111,7 @@ Key things to learn here  is ->
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 
-##### 4 https://blog.usejournal.com/reflected-xss-in-zomato-f892d6887147
+#####4 https://blog.usejournal.com/reflected-xss-in-zomato-f892d6887147
 
 Reflected XSS in Zomato - By Sudhanshu Rajbhar
 
@@ -149,7 +149,7 @@ KeyThing to learn from this Writeup ->
 * Payload from that cheatsheet -> co\u006efirm()
 * That payload worked for him
 
-######Prateek Tiwari mentioned that problem with HYDRA, which is an OAuth 2.0 and OpenID Connect Provider which zomato using for authentication on their service
+`Prateek Tiwari mentioned that problem with HYDRA, which is an OAuth 2.0 and OpenID Connect Provider which zomato using for authentication on their service`
 
 Side note from my side -> we can also use cheatsheet from ->
 https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all
@@ -198,7 +198,7 @@ What I got idea is from here is to check subdomains and see if any subdomain use
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
-##### 5. https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5
+######5. https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5
 
 How Recon helped me to to find a Facebook domain takeover - By Sudhanshu Rajbhar
  
