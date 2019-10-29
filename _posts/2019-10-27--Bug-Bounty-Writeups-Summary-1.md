@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bug-Bounty-Writeups-Summary-1
-date:   2019-6-18 
+date:   2019-10-27 
 categories: Bug-Bounty-Writeups-Summarry
 comments: false
 ---
