@@ -387,7 +387,12 @@ a) To<br>
 b) Title<br>
 c) Description<br>
 
-* He used Payload -> ```{{7*7}}``` in Title and Description field and click on send email buttion.
+* He used Payload -> 
+```
+{{7*7}}
+
+``` 
+in Title and Description field and click on send email buttion.
 
 * He got email as **"49"** in Subject and **"{{7*7}}"** as Description. That mean Subject field is vulnerable to Template Injection
 
@@ -395,12 +400,17 @@ c) Description<br>
 
 <br>
 
-* ```{{7 * 7}}``` -> what this doing is evaluating python code inside curly brackets
+* 
+```
+{{7 * 7}}
+``` 
+-> what this doing is evaluating python code inside curly brackets
 
 * Now, he tried another payload to get list of sub classes of object class
 
 ```
-Payload : {{ [].__class__.__base__.__subclasses__() }}
+{{ [].__class__.__base__.__subclasses__() }}
+
 ```
 <br>
 Response He got like this -><br>
