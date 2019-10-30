@@ -476,6 +476,8 @@ But again failed.
 * So, Author now told us that in Python to return  a value of list "pop" method is use.
 As example ->
 
+<br>
+
 ```
 >>> [1,2,3,4,5].pop(2)
 3
