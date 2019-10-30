@@ -462,6 +462,8 @@ This payload gives us a list of all sub classes “object” class.
 <br>
 
 * Next he tried to directly access file object like this ->
+<br>
+
 ```
 
 {{[].__class__.__base__.__subclasses__()[40] }}
