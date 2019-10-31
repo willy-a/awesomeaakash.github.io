@@ -37,13 +37,15 @@ a) To<br>
 b) Title<br>
 c) Description<br>
 
-* He used Payload ->  
+* He used Payload ->
+
 ```python
 {{7*7}}
 ``` 
 in **Title** and **Description** field and click on send email buttion.
 
 * He got email as **"49"** in Subject and 
+
 ```python
 {{7*7}}
 ``` 
@@ -54,6 +56,7 @@ as Description. That mean Subject field is vulnerable to Template Injection
 <br>
 
 * 
+
 ```python
 {{7 * 7}}
 ``` 
@@ -122,6 +125,7 @@ this payload in python interpreter we will get index of “file” object
 <br>
 
 * Next he tried to directly access file object like this ->
+
 ```python
 {{[].__class__.__base__.__subclasses__()[40] }}
 ```
