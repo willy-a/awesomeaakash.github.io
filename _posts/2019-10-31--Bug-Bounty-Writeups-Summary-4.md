@@ -41,7 +41,7 @@ c) Description<br>
 
 ```python
 {{7*7}}
-``` 
+```
 in **Title** and **Description** field and click on send email buttion.
 
 * He got email as **"49"** in Subject and 
